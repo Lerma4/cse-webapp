@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  ciao
+  utenti
 </template>
 
 <style scoped>
